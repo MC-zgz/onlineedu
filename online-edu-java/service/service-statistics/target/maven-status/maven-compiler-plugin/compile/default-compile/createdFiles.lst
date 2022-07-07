@@ -1,0 +1,9 @@
+com\zgz\servicestatistics\controller\StatisticsDailyController.class
+com\zgz\servicestatistics\client\UcenterClient.class
+com\zgz\servicestatistics\pojo\StatisticsDaily.class
+com\zgz\servicestatistics\StaApplication.class
+com\zgz\servicestatistics\Scheduled\ScheduledTask.class
+com\zgz\servicestatistics\service\impl\StatisticsDailyServiceImpl.class
+com\zgz\servicestatistics\utils\DateUtil.class
+com\zgz\servicestatistics\service\StatisticsDailyService.class
+com\zgz\servicestatistics\mapper\StatisticsDailyMapper.class

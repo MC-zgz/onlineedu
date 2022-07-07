@@ -1,0 +1,5 @@
+com\zgz\service_oss\utils\ConstantPropertiesUtils.class
+com\zgz\service_oss\service\FileService.class
+com\zgz\service_oss\controller\FileController.class
+com\zgz\service_oss\service\impl\FileServiceImpl.class
+com\zgz\service_oss\OssApplication.class

@@ -1,0 +1,7 @@
+com\zgz\servicewx\controller\UcenterMemberController.class
+com\zgz\servicewx\service\UcenterMemberService.class
+com\zgz\servicewx\ServiceWxApplication.class
+com\zgz\servicewx\utils\ConstantPropertiesUtil.class
+com\zgz\servicewx\pojo\UcenterMember.class
+com\zgz\servicewx\mapper\UcenterMemberMapper.class
+com\zgz\servicewx\service\impl\UcenterMemberServiceImpl.class

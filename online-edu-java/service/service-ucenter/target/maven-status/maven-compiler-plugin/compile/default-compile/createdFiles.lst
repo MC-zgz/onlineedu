@@ -1,0 +1,9 @@
+com\zgz\ucenter\mapper\MemberMapper.class
+com\zgz\ucenter\utils\MD5.class
+com\zgz\ucenter\pojo\Vo\LoginVo.class
+com\zgz\ucenter\controller\MemberController.class
+com\zgz\ucenter\pojo\Member.class
+com\zgz\ucenter\ServiceUcApplication.class
+com\zgz\ucenter\service\impl\MemberServiceImpl.class
+com\zgz\ucenter\service\MemberService.class
+com\zgz\ucenter\pojo\Vo\RegisterVo.class

@@ -1,0 +1,7 @@
+com\zgz\cmsservice\CmsApplication.class
+com\zgz\cmsservice\service\CrmBannerService.class
+com\zgz\cmsservice\controller\CrmBannerController.class
+com\zgz\cmsservice\mapper\CrmBannerMapper.class
+com\zgz\cmsservice\api\CrmBannerApiController.class
+com\zgz\cmsservice\pojo\CrmBanner.class
+com\zgz\cmsservice\service\impl\CrmBannerServiceImpl.class

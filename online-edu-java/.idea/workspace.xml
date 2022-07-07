@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29cc686a-a77b-485c-9f2b-6e91e05988d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/common/common-utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/common-utils/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common-utils/target/classes/META-INF/common-utils.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service-base/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-base/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/api-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/api-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/api-gateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/api-gateway/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-cms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-cms/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-cms/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-cms/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-cms/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-cms/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/target/classes/META-INF/service-edu.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-order/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-order/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-order/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-order/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-oss/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-oss/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-oss/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-oss/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-oss/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-oss/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-sms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-sms/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-sms/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-sms/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-sms/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-statistics/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-statistics/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-statistics/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-statistics/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-statistics/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-statistics/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-ucenter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-ucenter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-ucenter/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-ucenter/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-ucenter/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-ucenter/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-vod/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-vod/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-vod/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-vod/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-vod/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-vod/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-wx/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-wx/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-wx/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-wx/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-wx/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-edufront/assets/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-edufront/assets/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-edufront/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-edufront/layouts/default.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-edufront/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-edufront/nuxt.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-edufront/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-edufront/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-edufront/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-edufront/pages/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-edufront/pages/teacher/_id.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-edufront/pages/teacher/_id.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-edufront/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-edufront/utils/request.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="online_edu_parent" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1yivsFXnmAqPBv8Zk2FSuPoTrLT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2954023" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zgz_work\online-education\online-edu-java\service\service-statistics\src\main\java\com\zgz\servicestatistics\utils" />
+      <recent name="D:\zgz_work\online-education\online-edu-java\service\service-ucenter\src\main\resources\mapper" />
+      <recent name="D:\zgz_work\online-education\online-edu-java\service\service-order\src\main\java\com\zgz\serviceorder\utils" />
+      <recent name="D:\zgz_work\online-education\online-edu-java\service\service-wx\src\main\resources" />
+      <recent name="D:\zgz_work\online-education\online-edu-java\common\common-utils\src\main\java\com\zgz\commonutils\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zgz.servicesta" />
+      <recent name="com.zgz.commonutils.vo" />
+      <recent name="com.zgz.commonutils.utils" />
+      <recent name="com.zgz.serviceorder" />
+      <recent name="com.zgz.servicewx" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\zgz_work\online-education\online-edu-java\service\service-edu\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EduApplication">
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zgz.apigateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zgz.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zgz.cmsservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zgz.cmsservice.CmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-edu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zgz.eduservice.listener.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zgz.eduservice.EduApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zgz.serviceorder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zgz.serviceorder.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zgz.service_oss.OssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zgz.smsservice.ServiceSmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceUcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-ucenter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zgz.ucenter.ServiceUcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceWxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-wx" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zgz.servicewx.ServiceWxApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zgz.servicestatistics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zgz.servicestatistics.StaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-vod" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zgz.servicevod.VodApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ServiceSmsApplication" />
+      <item itemvalue="Spring Boot.VodApplication" />
+      <item itemvalue="Spring Boot.ServiceUcApplication" />
+      <item itemvalue="Spring Boot.ServiceWxApplication" />
+      <item itemvalue="Spring Boot.OssApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+      <item itemvalue="Spring Boot.EduApplication" />
+      <item itemvalue="Spring Boot.CmsApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.StaApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.StaApplication" />
+        <item itemvalue="Spring Boot.OrderApplication" />
+        <item itemvalue="Spring Boot.CmsApplication" />
+        <item itemvalue="Spring Boot.EduApplication" />
+        <item itemvalue="Spring Boot.ApiGatewayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.20423497" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29cc686a-a77b-485c-9f2b-6e91e05988d2" name="Default Changelist" comment="" />
+      <created>1632747427846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632747427846</updated>
+      <workItem from="1632747430070" duration="6569000" />
+      <workItem from="1632788571250" duration="7467000" />
+      <workItem from="1632875592975" duration="5476000" />
+      <workItem from="1633269672488" duration="3451000" />
+      <workItem from="1633335604198" duration="6537000" />
+      <workItem from="1633418519235" duration="8161000" />
+      <workItem from="1633508334549" duration="2727000" />
+      <workItem from="1633584339390" duration="3989000" />
+      <workItem from="1635431097440" duration="2894000" />
+      <workItem from="1635527024106" duration="2145000" />
+      <workItem from="1635563596548" duration="5477000" />
+      <workItem from="1635669869071" duration="2241000" />
+      <workItem from="1636012662790" duration="4004000" />
+      <workItem from="1636094284774" duration="5062000" />
+      <workItem from="1636170413719" duration="1640000" />
+      <workItem from="1636177426581" duration="4102000" />
+      <workItem from="1636270715709" duration="10254000" />
+      <workItem from="1636378379143" duration="4618000" />
+      <workItem from="1636419408637" duration="9706000" />
+      <workItem from="1636519091044" duration="5760000" />
+      <workItem from="1636590573320" duration="852000" />
+      <workItem from="1636591687830" duration="2025000" />
+      <workItem from="1636678300761" duration="5742000" />
+      <workItem from="1636768892848" duration="27537000" />
+      <workItem from="1636864498161" duration="12609000" />
+      <workItem from="1636948943464" duration="3282000" />
+      <workItem from="1637051157175" duration="600000" />
+      <workItem from="1637219401359" duration="1665000" />
+      <workItem from="1637296456097" duration="17064000" />
+      <workItem from="1637380056078" duration="5770000" />
+      <workItem from="1637418493700" duration="5025000" />
+      <workItem from="1637559254169" duration="1542000" />
+      <workItem from="1637590607556" duration="596000" />
+      <workItem from="1637673560195" duration="2504000" />
+      <workItem from="1637722102320" duration="1241000" />
+      <workItem from="1637726166979" duration="1201000" />
+      <workItem from="1637844705595" duration="635000" />
+      <workItem from="1637884341569" duration="4539000" />
+      <workItem from="1637978371015" duration="16351000" />
+      <workItem from="1638084628886" duration="6677000" />
+      <workItem from="1638154179922" duration="5145000" />
+      <workItem from="1638174947643" duration="5356000" />
+      <workItem from="1638238347245" duration="2658000" />
+      <workItem from="1638260128479" duration="8769000" />
+      <workItem from="1638342867948" duration="2590000" />
+      <workItem from="1638403130186" duration="1217000" />
+      <workItem from="1638410106636" duration="10285000" />
+      <workItem from="1638488568322" duration="13567000" />
+      <workItem from="1638540776436" duration="3815000" />
+      <workItem from="1638609806744" duration="1003000" />
+      <workItem from="1638672546362" duration="15583000" />
+      <workItem from="1638755102848" duration="10826000" />
+      <workItem from="1638841808816" duration="15075000" />
+      <workItem from="1638930886550" duration="8453000" />
+      <workItem from="1638984477474" duration="599000" />
+      <workItem from="1639007732944" duration="2201000" />
+      <workItem from="1639066559492" duration="2887000" />
+      <workItem from="1639124828498" duration="9184000" />
+      <workItem from="1639701128936" duration="689000" />
+      <workItem from="1640842197801" duration="635000" />
+      <workItem from="1640873167812" duration="885000" />
+      <workItem from="1640947118317" duration="3793000" />
+      <workItem from="1641121809197" duration="8238000" />
+      <workItem from="1641192801078" duration="807000" />
+      <workItem from="1641436150724" duration="15545000" />
+      <workItem from="1641513147605" duration="3332000" />
+      <workItem from="1648036886422" duration="3397000" />
+      <workItem from="1649259076146" duration="718000" />
+      <workItem from="1649838750406" duration="5120000" />
+      <workItem from="1649954055926" duration="2364000" />
+      <workItem from="1650855202425" duration="1625000" />
+      <workItem from="1650874154976" duration="899000" />
+      <workItem from="1651510080706" duration="1260000" />
+      <workItem from="1651817881532" duration="1331000" />
+      <workItem from="1651821635604" duration="1125000" />
+      <workItem from="1651909867722" duration="1524000" />
+      <workItem from="1651914069330" duration="25000" />
+      <workItem from="1652899651964" duration="1277000" />
+      <workItem from="1652917903459" duration="6426000" />
+      <workItem from="1653034690603" duration="149000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="741" y="187" key="FileChooserDialogImpl" timestamp="1650855345486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="187" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1650855345486" />
+    <state width="1215" height="243" key="GridCell.Tab.0.bottom" timestamp="1652930867183">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1164" height="243" key="GridCell.Tab.0.bottom/-1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1652900933410" />
+    <state width="1215" height="243" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1652930867183" />
+    <state width="1215" height="243" key="GridCell.Tab.0.center" timestamp="1652930867183">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1164" height="243" key="GridCell.Tab.0.center/-1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1652900933409" />
+    <state width="1215" height="243" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1652930867183" />
+    <state width="1215" height="243" key="GridCell.Tab.0.left" timestamp="1652930867183">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1164" height="243" key="GridCell.Tab.0.left/-1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1652900933409" />
+    <state width="1215" height="243" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1652930867183" />
+    <state width="1215" height="243" key="GridCell.Tab.0.right" timestamp="1652930867183">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1164" height="243" key="GridCell.Tab.0.right/-1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1652900933410" />
+    <state width="1215" height="243" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1652930867183" />
+    <state width="1215" height="243" key="GridCell.Tab.1.bottom" timestamp="1652930867183">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1164" height="243" key="GridCell.Tab.1.bottom/-1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1652900933410" />
+    <state width="1215" height="243" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1652930867183" />
+    <state width="1215" height="243" key="GridCell.Tab.1.center" timestamp="1652930867183">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1164" height="243" key="GridCell.Tab.1.center/-1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1652900933410" />
+    <state width="1215" height="243" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1652930867183" />
+    <state width="1215" height="243" key="GridCell.Tab.1.left" timestamp="1652930867183">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1164" height="243" key="GridCell.Tab.1.left/-1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1652900933410" />
+    <state width="1215" height="243" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1652930867183" />
+    <state width="1215" height="243" key="GridCell.Tab.1.right" timestamp="1652930867183">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1164" height="243" key="GridCell.Tab.1.right/-1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1652900933410" />
+    <state width="1215" height="243" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1652930867183" />
+  </component>
+</project>

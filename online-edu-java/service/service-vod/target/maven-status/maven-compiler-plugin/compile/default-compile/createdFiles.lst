@@ -1,0 +1,3 @@
+com\zgz\servicevod\controller\VideoAdminController.class
+com\zgz\servicevod\VodApplication.class
+com\zgz\servicevod\utils\AliyunVodSDKUtils.class

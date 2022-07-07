@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="808038fd-a933-42cc-94a0-d223c8be31f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../common/common-utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../common/common-utils/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../common/common-utils/target/classes/META-INF/common-utils.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../common/service-base/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../common/service-base/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../infrastructure/api-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../infrastructure/api-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../infrastructure/api-gateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../infrastructure/api-gateway/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../infrastructure/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../infrastructure/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-cms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-cms/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-cms/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-cms/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-cms/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-cms/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-edu/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-edu/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-edu/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-edu/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-edu/target/classes/META-INF/service-edu.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-edu/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-edu/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-order/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-order/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-order/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-order/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-oss/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-oss/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-oss/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-oss/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-oss/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-oss/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-sms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-sms/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-sms/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-sms/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-sms/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-ucenter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-ucenter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-ucenter/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-ucenter/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-ucenter/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-ucenter/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-vod/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-vod/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-vod/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-vod/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-vod/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-vod/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-wx/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-wx/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-wx/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../service-wx/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../service-wx/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../vue-edufront/assets/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../vue-edufront/assets/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../vue-edufront/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../vue-edufront/layouts/default.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../vue-edufront/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../vue-edufront/nuxt.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../vue-edufront/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../vue-edufront/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../vue-edufront/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../vue-edufront/pages/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../vue-edufront/pages/teacher/_id.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../vue-edufront/pages/teacher/_id.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../vue-edufront/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../vue-edufront/utils/request.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../../../.." />
+  </component>
+  <component name="ProjectId" id="28GuWJRBa02fqSjX3bM1AVJ9Q2l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="808038fd-a933-42cc-94a0-d223c8be31f2" name="Default Changelist" comment="" />
+      <created>1650855273267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650855273267</updated>
+      <workItem from="1650855274623" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1650855319895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1650855319895" />
+  </component>
+</project>

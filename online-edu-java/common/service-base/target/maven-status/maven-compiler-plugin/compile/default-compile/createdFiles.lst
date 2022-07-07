@@ -1,0 +1,5 @@
+com\zgz\servicebase\handler\MyMetaObjectHandler.class
+com\zgz\servicebase\handler\GlobalExceptionHandler.class
+com\zgz\servicebase\handler\OnlineEduException.class
+com\zgz\servicebase\config\SwaggerConfig.class
+com\zgz\servicebase\config\RedisConfig.class
