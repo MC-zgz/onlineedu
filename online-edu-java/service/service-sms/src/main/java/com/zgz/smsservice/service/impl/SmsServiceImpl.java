@@ -26,19 +26,19 @@ public class SmsServiceImpl implements SmsService {
         if(StringUtils.isEmpty(phone)) return false;
 
         DefaultProfile profile =
-                DefaultProfile.getProfile("default", "LTAI3buexRAagkdy", "A6hpWJbF3Zz6wj3jxuBe40Mwryt1Zz");
+                DefaultProfile.getProfile("default", "afdafafafaf123414", "2525wsdfafasdq214qdad");
         IAcsClient client = new DefaultAcsClient(profile);
 
         CommonRequest request = new CommonRequest();
         //request.setProtocol(ProtocolType.HTTPS);
         request.setMethod(MethodType.POST);
-        request.setDomain("dysmsapi.aliyuncs.com");
+        request.setDomain("XXXXXXX");
         request.setVersion("2017-05-25");
-        request.setAction("SendSms");
+        request.setAction("XXXXXX");
 
         request.putQueryParameter("PhoneNumbers", phone);
-        request.putQueryParameter("SignName", "我的谷粒在线教育网站");//审核通过签名
-        request.putQueryParameter("TemplateCode", "SMS_183195440");//审核通过模板
+        request.putQueryParameter("SignName", "XXXXXXXX");//审核通过签名
+        request.putQueryParameter("TemplateCode", "XXXXXXX0");//审核通过模板
         request.putQueryParameter("TemplateParam", JSONObject.toJSONString(param));
 
         try {
