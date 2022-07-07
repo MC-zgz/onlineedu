@@ -32,8 +32,8 @@ import java.util.List;
 @CrossOrigin
 public class VideoAdminController {
 
-    String accessKeyId = "LTAI5gsfgax1r8XUYg";
-    String accessKeySecret = "2WCEfasdfafaECjO8qPFwSCW4S";
+    String accessKeyId = "asdae1231341421x1r843252g";
+    String accessKeySecret = "21252tsdgfsdfsdgfsdg435452342";
 
     @ApiOperation(value = "上传视频")
     @PostMapping("/uploadVideo")
